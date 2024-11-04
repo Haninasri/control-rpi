@@ -1,3 +1,4 @@
+console.log(./.env)
 // Your web app's Firebase configuration
 const firebaseConfig = 
 {
