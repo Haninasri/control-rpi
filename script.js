@@ -13,8 +13,6 @@ const firebaseConfig =
 };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
 
 $(document).ready(function(){
 	var database = firebase.database();
